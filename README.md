@@ -16,10 +16,8 @@ It allows users to select a suspect and a crime type to determine guilt based on
 ## Table of Contents
 
 - [Features](#features)   
-- [Installation](#Installation)  
-- [Usage](#usage)  
-- [Example of Evidence](#example-of-evidence)  
-- [Technologies](#technologies)  
+- [Installation](#Installation)   
+- [Technologies](#Technologies)  
 
 ---
 
@@ -66,4 +64,7 @@ npm run serve
 ```bash
 http://localhost:5173
 ```
-
+---
+## Technologies
+- Vue3
+- Bootstrap
