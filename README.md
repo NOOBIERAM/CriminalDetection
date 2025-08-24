@@ -1,5 +1,5 @@
 
-# Member of a group
+# Group Member (M1 GB Group 2)
 - 2568 RAZAFINANDRIANINS Rios 
 - 2585 RASOLOMANDIMBY Tendry Antenaina Steeve
 - 2591 RAZAKANTOANINA ANDRIAMAMONJISOA Brandon
